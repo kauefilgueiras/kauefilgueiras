@@ -27,7 +27,7 @@
     <a href="https://reactjs.org/" target="_blank"> 
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png?20220125121207" height=40 width=50 /> 
     </a>
-    <a href="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" target="_blank"> 
+    <a href="https://hibernate.org/" target="_blank"> 
       <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" height=40 width=50 /> 
     </a>
 </p></b>
