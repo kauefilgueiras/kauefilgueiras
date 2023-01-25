@@ -50,7 +50,6 @@
   <a href="https://github.com/kauefilgueiras">
     <img src="https://github-readme-stats.vercel.app/api?username=kauefilgueiras&show_icons=true&theme=github_dark" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=kauefilgueiras&theme=github-dark-blue&hide_border=true" />
-    <img src="https://activity-graph.herokuapp.com/graph?username=kauefilgueiras&theme=react-dark" />
 </a>
 </p>
 
