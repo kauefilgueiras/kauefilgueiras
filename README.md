@@ -19,16 +19,22 @@
 
 📍 **From:** Brazil 🌎  
 
-📫 **Let's connect!**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauefilgueiras/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+---
+
+## 📫 Let's connect!  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kauefilgueiras/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
 
 ---
 
 ## 🔥 Skills  
 
 ### 🔹 Languages  
-<p align="left">
+<p align="center">
   <a href="https://www.java.com" target="_blank"> 
     <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> 
   </a>
@@ -37,40 +43,41 @@
   </a>
 </p>
 
+---
+
 ### 🔹 Frameworks & Libraries  
-<p align="left">
+<p align="center">
   <a href="https://spring.io/projects/spring-framework" target="_blank"> 
-    <img src="https://spring.io/images/projects/spring-framework-640ad1b04f7efa89e0f0f7353e6b5e02.svg?v=2" height=40 width=50 /> 
+    <img src="https://bgasparotto.com/wp-content/uploads/2017/12/spring-boot-logo.png" height="50" width="100"/> 
   </a>
   <a href="https://nodejs.org/en/" target="_blank"> 
-    <img src="https://nodejs.org/static/images/logo.svg" height=40 width=50 />
-  </a>
-  <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png?20220125121207" height=40 width=50 /> 
-  </a>
-  <a href="https://hibernate.org/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" height=40 width=50 /> 
+    <img src="https://nodejs.org/static/images/logo.svg" height="50" width="100"/>
   </a>
 </p>
 
+---
+
 ### 🔹 Databases  
-<p align="left"> 
+<p align="center"> 
   <a href="https://www.mysql.com/" target="_blank"> 
     <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> 
   </a>
   <a href="https://www.postgresql.org/" target="_blank"> 
-    <img src="https://www.postgresql.org/media/img/about/press/elephant.png" height=60 width=60 /> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" height="50" width="80"/> 
   </a>
 </p>
 
 ---
 
 ## 📈 Statistics  
-![](https://komarev.com/ghpvc/?username=kauefilgueiras&color=447ff7&label=Visitor+count)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kauefilgueiras&color=447ff7&label=Visitor+count">
+</p>
 
 <p align="center">
   <a href="https://github.com/kauefilgueiras">
     <img src="https://github-readme-stats.vercel.app/api?username=kauefilgueiras&show_icons=true&theme=github_dark" />
+    <br>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=kauefilgueiras&theme=github-dark-blue&hide_border=true" />
   </a>
 </p>
