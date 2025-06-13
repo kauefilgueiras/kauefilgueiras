@@ -1,27 +1,29 @@
-# 💻 Kauê Filgueiras  
+# 💻 Kauê Filgueiras
 
 <p align="center">
   <img src="animation.gif" width="35%">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+I'm+Kauê+Filgueiras+%F0%9F%91%8B%F0%9F%8F%BB;Software+Developer+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Passionate+about+tech+and+coding+;Always+learning+new+things" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Olá!+Sou+Kauê+Filgueiras+%F0%9F%91%8B%F0%9F%8F%BB;Desenvolvedor+de+Software+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Apaixonado+por+tecnologia+e+código;Sempre+aprendendo+coisas+novas" alt="Typing SVG">
 </p>
 
 ---
 
-## 🚀 About Me
+## 🚀 Sobre Mim
 
-- 🔹 Passionate about solving problems through technology  
-- 🔹 Software Developer | Backend & Frontend  
-- 🔹 Computer Science Student  
-- 🔹 Focused on clean code, architecture, and best practices  
+- 🔹 Apaixonado por resolver problemas através da tecnologia  
+- 🔹 Desenvolvedor de Software | Backend & Frontend  
+- 🔹 Estudante de Ciência da Computação  
+- 🔹 Focado em código limpo, arquitetura e boas práticas  
+- 🔹 Entusiasta de automações low-code com [n8n](https://n8n.io/)  
+- 🔹 Experiência com bancos de dados low-code como [Supabase](https://supabase.com/) e [Baserow](https://baserow.io/)
 
-📍 **From:** Brazil 🌎  
+📍 **De:** Brasil 🌎  
 
 ---
 
-## 📫 Let's connect!  
+## 📫 Vamos nos conectar!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kauefilgueiras/" target="_blank">
@@ -31,47 +33,62 @@
 
 ---
 
-## 🔥 Skills  
+## 🔥 Habilidades
 
-### 🔹 Languages  
+### 🔹 Linguagens  
 <p align="center">
   <a href="https://www.java.com" target="_blank"> 
     <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> 
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"> 
     <img src="https://img.icons8.com/color/48/000000/javascript.png"/> 
   </a>
 </p>
 
 ---
 
-### 🔹 Frameworks & Libraries  
+### 🔹 Frameworks & Bibliotecas  
 <p align="center">
-  <a href="https://spring.io/projects/spring-framework" target="_blank"> 
-    <img src="https://bgasparotto.com/wp-content/uploads/2017/12/spring-boot-logo.png" height="50" width="100"/> 
+  <a href="https://spring.io/projects/spring-boot" target="_blank"> 
+    <img src="https://seeklogo.com/images/S/spring-boot-logo-9A2BC78AAF-seeklogo.com.png" height="50"/> 
   </a>
   <a href="https://nodejs.org/en/" target="_blank"> 
-    <img src="https://nodejs.org/static/images/logo.svg" height="50" width="100"/>
+    <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" height="50"/>
   </a>
 </p>
 
 ---
 
-### 🔹 Databases  
+### 🔹 Bancos de Dados  
 <p align="center"> 
   <a href="https://www.mysql.com/" target="_blank"> 
     <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> 
   </a>
   <a href="https://www.postgresql.org/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" height="50" width="80"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" height="50"/> 
+  </a>
+  <a href="https://supabase.com/" target="_blank"> 
+    <img src="https://cdn.prod.website-files.com/66842e04d18971242a294872/669e87d174d190a8ba60b861_supabase-TAiY.png" height="50"/>
+  </a>
+  <a href="https://baserow.io/" target="_blank"> 
+    <img src="https://baserow.io/img/logo_baserow_square_large.png" height="50"/>
   </a>
 </p>
 
 ---
 
-## 📈 Statistics  
+### 🔹 Ferramentas de Automação Low-Code  
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kauefilgueiras&color=447ff7&label=Visitor+count">
+  <a href="https://n8n.io/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/N8n-logo-new.svg/2560px-N8n-logo-new.svg.png" height="50"/>
+  </a>
+</p>
+
+---
+
+## 📈 Estatísticas  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kauefilgueiras&color=447ff7&label=Visualiza%C3%A7%C3%B5es+do+perfil">
 </p>
 
 <p align="center">
