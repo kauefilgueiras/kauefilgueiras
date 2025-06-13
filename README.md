@@ -50,10 +50,10 @@
 ### 🔹 Frameworks & Bibliotecas  
 <p align="center">
   <a href="https://spring.io/projects/spring-boot" target="_blank"> 
-    <img src="https://seeklogo.com/images/S/spring-boot-logo-9A2BC78AAF-seeklogo.com.png" height="50"/> 
+    <img src="https://img.icons8.com/color/600/spring-logo.png" height="50"/> 
   </a>
-  <a href="https://nodejs.org/en/" target="_blank"> 
-    <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" height="50"/>
+  <a href="https://angular.dev/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" height="50"/>
   </a>
 </p>
 
